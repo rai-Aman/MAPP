@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lifecycle_Event</string>
+    <string name="LoginView">Login</string>
+    <string name="UserName">Enter User Name</string>
+    <string name="Password">Enter Password</string>
+    <string name="EnterPassword">Enter Password</string>
+    <string name="LogBtn">Login</string>
+
+
+
+
+
+</resources>

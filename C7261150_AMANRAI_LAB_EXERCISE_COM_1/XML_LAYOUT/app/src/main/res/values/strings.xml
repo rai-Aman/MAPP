@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">XML LAYOUT</string>
+    <string name = "Cost_Of_Service">Cost Service</string>
+    <string name = "Service_How">How Was the service?</string>
+    <string name = "amazing">Amazing(20%)</string>
+    <string name = "good">Good(18%)</string>
+    <string name = "Okay">Okay(15%)</string>
+    <string name = "round_up_tip">Round up tip</string>
+    <string name = "Calculate_Btn">Calculate</string>
+    <string name = "Tip_Amount">Tip Amount</string>
+</resources>

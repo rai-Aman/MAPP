@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application Event</string>
+    <string name = "tv"></string>
+    <string name = "textView">Texts</string>
+    <string name = "btn_OK"> OK </string>
+
+</resources>
